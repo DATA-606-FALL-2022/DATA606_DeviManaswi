@@ -8,7 +8,7 @@ Credit card applications are frequently sent to banks. In a variety of circumsta
 
 ## Dataset:
 
-Two datasets one is application record(54.34MB) consisting of 18 variables and the other one which is credit record(15.37MB) and it has 3 columns will be used.
+Two datasets one is application record(54.34MB) consisting of 18 variables and the other one which is credit record(15.37MB) and it has 3 columns.
 
 Data Source: http://archive.ics.uci.edu/ml/datasets/credit+approval
 
