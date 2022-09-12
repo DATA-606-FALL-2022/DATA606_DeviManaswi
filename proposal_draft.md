@@ -15,10 +15,15 @@ Data Source: http://archive.ics.uci.edu/ml/datasets/credit+approval
 ## Techniques and Models:
 
 •	Logistic Classification
+
 •	Xgboost
+
 •	SVC Classification
+
 •	KNN Classification
+
 •	Random Forest Classifications
+
 
 ## Outcome:
 
