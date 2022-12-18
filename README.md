@@ -109,22 +109,29 @@ There are two datasets, one is application record (54.34MB) consisting of 438557
 
 ## Results 
 
-The accuracy of the Logistic Regression algorithm is about 57%.
+•	The accuracy of the Logistic Regression algorithm is about 57%.
 
-The accuracy of the Xgboost algorithm is about 87%.
+•	The accuracy of the Xgboost algorithm is about 87%.
 
-The accuracy of the Random forest algorithm is about 94%. 
+•	The accuracy of the Random forest algorithm is about 94%. 
 
-The accuracy of the Decision Tree algorithm is about 78%.
+•	The accuracy of the Decision Tree algorithm is about 78%.
 
-The accuracy of the KNN Classification algorithm is about 69%.
+•	The accuracy of the KNN Classification algorithm is about 69%.
 
-The accuracy of the SVC Classifier algorithm is about 73%. 
+•	The accuracy of the SVC Classifier algorithm is about 73%. 
 
-The accuracy of the Naive Bayes algorithm is about 69%.
+•	The accuracy of the Naive Bayes algorithm is about 69%.
+
+## Conclusion:
+
+•	Random Forest gives the best accuracy compares to rest of the model.
+
+•	Logistic regression gives the lowest accuracy.
+
+•	Income type factor is affecting the Target variable.
 
 
-
-##Reference:   
+## Reference:   
 
 https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/discussion/119320
