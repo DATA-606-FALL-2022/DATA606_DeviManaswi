@@ -4,7 +4,7 @@
 
 Dataset link: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
-Youtube link: 
+Youtube link: https://youtu.be/uEAS13zTBB4
 
 Ppt link: https://github.com/DATA-606-FALL-2022/DATA606_DeviManaswi/blob/main/Credit%20Card%20Predictive%20Analysis_PPT.pptx
 
